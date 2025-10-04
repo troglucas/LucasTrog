@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
     <h1>It's my birthday!</h1>
     <h2>On the May 12th</h2>
@@ -18,4 +19,5 @@
     <h4>This is where you need to go:</h4>
     <a href="https://www.google.com">Google Maps</a>
 </body>
+
 </html>
